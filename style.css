@@ -125,7 +125,7 @@ label:focus {
 }
 
 #network {
-    background-color: rgba (166,172,8, 0.6);
+    background-color: rgba (166,172,8, 0.55);
 }
 
 #network.disconnected {
@@ -133,12 +133,12 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: rgba (36,96,141, 0.9);
+    background-color: rgba (80, 100, 158, 0.9);
     color: #a9a6a6;
 }
 
 #pulseaudio.muted {
-    background-color: #444444;
+    background-color: #dbdede;
     color: #4aa8e5;
 }
 
